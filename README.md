@@ -13,10 +13,15 @@ Example 1:
 Input: {"aPlayer,2", "bPlayer,1", "aPlayer,1", "cPlayer,5", "dPlayer,2", "ePlayer,1", "bPlayer,2", "dPlayer,1"}
 
 PlayerEvents: 
+
 "aPlayer": 3  
+
 "bPlayer": 3
+
 "cPlayer": 5
+
 "dPlayer": 3
+
 "ePlayer": 1
 
 k=2
