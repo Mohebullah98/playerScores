@@ -27,7 +27,7 @@ let Input= ["aPlayer,2", "bPlayer,1", "aPlayer,1", "cPlayer,5", "dPlayer,2", "eP
 	    if(a.score>b.score) return -1;
 	    if(a.score==b.score){
 	      if(a.name<b.name) return -1;
-	      if(a.name>b.came) return 1;
+	      if(a.name>b.name) return 1;
 	      return 0;
 	 }
 	 }) //push only top k results into return array
